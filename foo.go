@@ -1,6 +1,7 @@
 package pkg
 
-func Fn() {
-}
+import "time"
 
-func bar(){}
+func Fn() {
+time.Parse("abc", "def")
+}
