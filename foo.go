@@ -1,7 +1,5 @@
 package pkg
 
-import "time"
-
 func Fn() {
 }
 
